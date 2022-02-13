@@ -73,8 +73,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/yuriAlves5">
     <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=yuriAlves5&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/yuriAlves5">
-    <img align="center"  height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yuriAlves5&theme=radical&layout=compact"/>
-  </a>
+
+
 </p>
 
