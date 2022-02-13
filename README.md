@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 &nbsp; I’m currently learning reactJS, Django and Flask.
 - 🎓 &nbsp; Studying Software Engineering at  <a href="http://www.unb.br">University of Brasilia</a>.
 
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=Jonathan-Oliveira.visitor-badge)](https://github.com/Jonathan-Oliveira)
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -67,12 +67,7 @@ Here are some ideas to get you started:
 
 ## My Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuriAlves5&theme=radical" alt="yuriAlves5" /></a> </p>
-<br>
-<p align="left">
- <a href="https://github.com/yuriAlves5">
-    <img align="center"  height="150em" src="https://github-readme-stats.vercel.app/api?username=yuriAlves5&show_icons=true&theme=radical" />
-  </a>
+![Yuri Alves  GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriAlves5&theme=dark&show_icons=true)
 
 
 </p>
