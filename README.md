@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 💻 &nbsp;About Me 
 
-- 🌱 &nbsp; I’m currently learning Redhat Openshift and 3scale.
+- 🌱 &nbsp; I’m currently learning Redhat Openshift.
 - 🎓 &nbsp; Studying Software Engineering at  <a href="http://www.unb.br">University of Brasilia</a>. 
 - 🔭 I’m currently working on ChainTech as a Cloud Architect
 
