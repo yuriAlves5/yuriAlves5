@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 &nbsp; Red Hat Certificated.
 - 🎓 &nbsp; Software Engineering at  <a href="http://www.unb.br">University of Brasilia</a>. 
-- 🔭 I’m currently working on ChainTech
+- 🔭  I’m currently working as a Red Hat contractor
 
 
 
